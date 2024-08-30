@@ -19,7 +19,7 @@ import (
 const (
 	// protocolVersion is the current RakNet protocol version. This is Minecraft
 	// specific.
-	protocolVersion byte = 11
+	protocolVersion byte = 6
 
 	minMTUSize    = 576
 	maxMTUSize    = 1492
