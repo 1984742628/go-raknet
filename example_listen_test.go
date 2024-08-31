@@ -1,7 +1,7 @@
 package raknet_test
 
 import (
-	"github.com/sandertv/go-raknet"
+	"github.com/1984742628/go-raknet"
 )
 
 func ExampleListen() {
